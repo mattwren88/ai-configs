@@ -42,13 +42,15 @@
 - **Own or rent**: Own
 - **Style**: Craftsman
 - **Year built**: 1924
-- **Estimated market value**: ~$245,000 (Zestimate $220,800, adjusted upward for recent improvements)
+- **Purchase date**: May 2024
+- **Purchase price**: $205,000
+- **Estimated current market value**: ~$250,000-260,000 (as of Feb 2026)
 - **Dwelling coverage (replacement cost)**: $387,000 (not the same as market value — this is what it would cost to rebuild)
 - **Square footage**: 1,848 sq ft
 - **Construction**: Frame with wood siding
 - **Stories**: 2
 - **Foundation**: Basement (finished)
-- **Roof**: Architectural Shingle (9 years old)
+- **Roof**: Architectural Shingle (front section replaced 2025, dormer repaired 2025, back section original - 9 years old)
 - **Mortgage lender**: PHH (soon to be Onity Mortgage)
 - **Original loan amount**: $164,000
 - **Current balance**: $161,493.10 (as of Jan 2026 statement)
@@ -61,8 +63,8 @@
 - **Origination date**: May 10, 2024
 - **Maturity date**: June 1, 2054
 - **PMI**: No
-- **LTV ratio**: ~65.9% (based on $245k market value)
-- **Home equity**: ~$83,507 (market value minus mortgage balance)
+- **LTV ratio**: ~64.6% (based on $250k estimated market value)
+- **Home equity**: ~$88,500 (estimated market value minus mortgage balance)
 - **Property tax (annual)**: ~$3,009 (based on 2025 escrow disbursements)
 - **Homeowners insurance (annual)**: $1,222 (Travelers Personal Insurance Company)
   - Policy number: 615786979 633 1
@@ -93,20 +95,50 @@
   - Discounts applied: Multi-Policy, Good Payer, Water Protective Device, Early Quote, Fire Protective Device
   - Total savings from discounts: $489
 
-### Recent Home Improvements (completed)
-- **Electrical**: Full rewire, 200-amp panel upgrade, new outlets throughout, dedicated AC circuits (Envy Electrical, Nov 2025 — $1,850+)
-- **Roof - front**: Replaced (covered by homeowners insurance, storm damage 2025)
-- **Roof - flat dormer**: Repaired (2025, recently paid off)
-- **Basement**: Damage repaired
+### Major Improvements Since Purchase (May 2024 - Feb 2026)
+**Total Investment: ~$28,100 out of pocket**
 
-### Remaining Home Projects
-- Complete back roof section (1/3 of roof still original)
-- Fix siding
-- Fix porches
+**Electrical System - Complete Modernization ($10,900)**
+- June 2024: Full knob & tube removal, 200-amp panel upgrade, complete rewire — $7,200
+- November 2025: BX wiring upgrades to modern wiring, dedicated AC circuits (foyer & bedroom), additional outlets (bedroom, kitchen, porch, garage, side of house) — $3,700
+- Result: Fully modernized electrical system, eliminates major insurance/safety concern
+
+**Roofing ($6,400 out of pocket, $12,900 total work)**
+- Front roof: Complete replacement with architectural shingles (2025) — $7,500 total ($1,000 deductible, insurance paid $6,500 for storm damage)
+- Flat dormer roof: Professional repair (2025) — $5,400
+- Status: Front and dormer fully updated, back section (1/3 of roof) still original
+
+**Pest Control & Structural**
+- Termite treatment and basement damage repair (2025) — $1,900 (includes 5-7 year warranty)
+
+**Mechanical Systems**
+- Toilet replacement (failing seal) — $1,000
+- Furnace valve addition — $400
+
+**Cosmetic & Efficiency (DIY)**
+- First floor complete repaint — ~$500 (materials, DIY labor)
+- Attic insulation — $500 (materials, DIY labor)
+- Upstairs flooring: Removed old carpeting, currently refinishing/updating (in progress, DIY)
+
+### Remaining Home Projects (Prioritized)
+**High Priority - Structural/Weatherproofing:**
+- Complete back roof section (1/3 of roof still original, ~9 years old)
+- Fix siding (important for 1924 Craftsman character and weather protection)
+
+**Medium Priority - Maintenance:**
+- Fix porches (including weather protection, ceiling replacement, electrical upgrades for fans/lighting)
 - New basement door
+
+**Lower Priority - Upgrades:**
 - Fix garage door
 - Upgrade garage door opener
-- Convert closet to half bathroom (plumbing rough-in needed)
+- Convert closet to half bathroom (plumbing rough-in needed, but adds real value)
+
+### Home Condition Notes
+- **At purchase (May 2024)**: Generally good condition, addressed major systems
+- **Current condition (Feb 2026)**: Well-maintained with modernized systems
+- **Major concerns eliminated**: Knob & tube wiring removed, roof mostly updated, termites treated
+- **Maintenance philosophy**: Preserve 1924 Craftsman character while modernizing infrastructure and systems
 
 ## Credit Cards & Banking
 
